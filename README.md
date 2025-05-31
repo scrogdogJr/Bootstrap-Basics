@@ -1,7 +1,7 @@
 # Title: Bootstrap Basics
 
 # Description:
-This is a personal portfolio webpage to demonstrate the basics of bootstrap.
+This is a personal portfolio webpage to demonstrate the basics of Bootstrap.
 
 # Technologies Used:
 - HTML
